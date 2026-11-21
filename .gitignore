@@ -1,0 +1,17 @@
+# Java / Maven
+target/
+*.jar
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Node / React
+node_modules/
+dist/
+
+# Environment & OS
+.env
+.DS_Store
+Thumbs.db
